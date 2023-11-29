@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Content
+  - monster
+  - tower
+  - tower2
+  - destower
+  - PowerItem
+  - MonsterPool
+  - Canvas
+  - tower1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - mask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ta
+    uniqueID: 4092405741
+    locked: 0
+  - name: New Layer
+    uniqueID: 2990030429
+    locked: 0
+  - name: mask
+    uniqueID: 2998848399
+    locked: 0
